@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Sayangenri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello World!
 
-<!---
-Sayangenri/Sayangenri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sayan Genri, a 2nd year college student with a passion for web3 and backend developer.
+
+🚀 Here's what defines me:
+- 💻 Backend Development [Django]
+- 🌐 Javascript,Node Js.
+- 📚 Continuous learner and tech enthusiast
+- 🔍 Always exploring new ways to Content Creation 
+
+🌱 I'm currently learning WEB3 Based Technology.
+
+📫 Let's connect:
+- 🐦 Twitter: @Sayan__Genri
+- 📧 Email: sayangenri1@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sayangenri/
+
+Looking forward to contributing and learning together! 🌟
